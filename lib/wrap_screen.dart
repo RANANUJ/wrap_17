@@ -31,7 +31,7 @@ class _WrapScreen extends State<WrapScreen> {
                         color = 1;
                       });
                     },
-                    child: Text("Red")),
+                    child: Text("Red",) ),
               ),
               OutlinedButton(
                   onPressed: () {
